@@ -1,0 +1,229 @@
+.mian {
+    width: 100%;
+}
+.inputGroup {
+    position: relative;
+}
+
+.container {
+    margin: 0 6pt;
+}
+
+.inputGroup input {
+    width: 100%;
+    height: 33pt;
+    font-size: 0.16rem;
+    background: #EFEFFC;
+}
+
+.inputGroup #images {
+    width: 19pt;
+    background: #EFEFFC;
+    height: 0.27rem;
+    position: absolute;
+    right: 2%;
+    top: 20%;
+}
+
+.lunbo {
+    width: 100%;
+    height: 2.8rem;
+    background: #EFEFFC;
+    position: relative;
+    box-shadow: 0px 3px 10px #d6d1d1;
+}
+
+.swiper-slide img {
+    width: 100%;
+    height: 2.3rem;
+    margin-bottom: 3%;
+}
+
+.swiper-slide span {
+    margin-left: 2%;
+    font-size: 13pt;
+}
+.swiper-slide .data {
+    font-size: 10pt;
+}
+
+.listInform {
+    margin: 2% 0;
+    height: auto;
+    width: 100%;
+}
+
+.listInform ul li {
+    float: left;
+    width: 25%;
+    height: 1rem;
+    text-align: center;
+}
+
+.listInform ul li img {
+    width: 34pt;
+    margin-bottom: 9pt;
+}
+
+.listInform ul li p {
+    margin: 0;
+}
+
+.listInform ul li p a {
+    font-size: 12pt;
+}
+
+.business {
+    width: 100%;
+    margin: 0 auto;
+    height: auto;
+    padding: 2% 5px;
+    border-bottom: 0.01rem solid #F5F5FA;
+}
+
+.business .top {
+    width: 98%;
+    border-left: 0.05rem solid #3C88E5;
+    padding: 0 6% 0 2%;
+    margin-left: 3%;
+}
+
+.Env span {
+    font-weight: inherit;
+    font-size: 15pt;
+}
+
+.Env a {
+    float: right;
+    font-size: 13pt;
+
+}
+
+.bottom {
+    width: 100%;
+    padding: 0 2%;
+}
+
+.bottom .text {
+    width: 56%;
+    display: inline-block;
+}
+
+.bottom .text p {
+    margin: 3px 0;
+    font-size: 12pt;
+}
+
+.bottom .text .txt{
+    font-size: 14pt;
+}
+.bottom ul li {
+    width: 45%;
+    height: auto;
+    float: left;
+    margin: 4% 2%;
+}
+
+.bottom .image img {
+    width: 58pt;
+}
+
+.heMan{
+    width: 100%;
+    height:11pt;
+    background: #F5F5FA;
+    clear: both;
+}
+.heMan1{
+    width: 100%;
+    height: 11pt;
+    clear: both;
+}
+.heMan2{
+    width: 100%;
+    height: 6pt;
+    clear: both;
+}
+.heMan3{
+    width: 100%;
+    height: 45pt;
+    background: #F5F5FA;
+    clear: both;
+}
+/*底部*/
+html,body {
+    width:100%;
+    height:100%;
+    margin:0;
+    padding:0;
+    overflow:scroll;
+}
+.fex {
+    width: 100%;
+    height: 44pt;
+    clear: both;
+    padding: 2%;
+    background: #F5F5FA;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    display:fixed;
+    z-index: 1010;
+}
+.fex ul li {
+    text-align: center;
+    float: left;
+    width: 20%;
+}
+.fex ul li p {
+    font-size: 10pt;
+    margin: 0;
+}
+.fex ul li img {
+    width: 18pt;
+    margin-bottom: 2%;
+}
+/*人才*/
+.mui-bar {
+    position: relative;
+}
+.mui-bar a img {
+    width: 12%;
+    left: -1%;
+    position: absolute;
+}
+
+/*添加*/
+.mui-media-body {
+    margin-top: 3%;
+}
+
+.mui-media-body p {
+    line-height: 2;
+}
+
+.mui-media-body span {
+    color: #FF6600;
+}
+.man {
+    margin: 13% 0 0 0;
+    text-align: center;
+}
+.man img {
+    border: 0.01rem solid #dbdbdb;
+    padding: 2%;
+}
+.man p a{
+    font-size: 14pt;
+    color: #FF6600;
+}
+.cont {
+    padding: 0 10%
+}
+.cont p{
+    width: 100%;
+    display: inline-block;
+    font-size: 14px;
+    line-height: 30px;
+}
