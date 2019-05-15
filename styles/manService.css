@@ -1755,7 +1755,8 @@ p {
 }
 
 .mui-table-view-cell p {
-    margin-bottom: 0
+    margin-bottom: 0;
+    font-size: 0.14rem;
 }
 
 .mui-table-view-cell.mui-transitioning > .mui-slider-handle, .mui-table-view-cell.mui-transitioning > .mui-slider-left .mui-btn, .mui-table-view-cell.mui-transitioning > .mui-slider-right .mui-btn {
