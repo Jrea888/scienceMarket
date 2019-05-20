@@ -1,0 +1,120 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "微软雅黑";
+}
+
+.wrap {
+    margin: 0 auto;
+}
+
+.tabs {
+    height: 45px;
+    border-bottom: 0.01rem solid #e4e4e4;
+    width: 100%;
+    text-align: center;
+    line-height: 45px;
+}
+
+.tabs .part {
+    display: block;
+    float: left;
+    width: 50%;
+    color: #333;
+    text-align: center;
+}
+
+.tabs a {
+    width: 70px;
+    display: block;
+    text-align: center;
+    margin: 0 auto;
+    color: #333;
+    font-size: 16px;
+    text-decoration: none;
+}
+
+.tabs span.active a {
+    color: #0A81C3;
+    font-size: 17px;
+    font-weight: bold;
+    width: 100%;
+    border-bottom: 0.01rem solid #0A81C3;
+}
+
+.swiper-container {
+    width: 100%;
+    border-top: 0;
+}
+
+.swiper-slide {
+    width: 100%;
+    background: none;
+    color: #000000;
+}
+
+.content-slide ul li {
+    border-bottom: 1px dashed #dfe2e4;
+    box-sizing: border-box;
+    padding: 10px;
+    height: auto;
+    list-style: none;
+}
+.content-slide ul li a p {
+    color: #333;
+    font-size: 14px;
+}
+.content-slide ul li a span {
+    color: #333;
+    font-size: 12px;
+    display: block;
+}
+
+.content-slide ul li a {
+    display: block;
+    cursor: pointer;
+    text-decoration: none;
+    line-height: 2;
+}
+
+.content-slide ul li a .img {
+    float: left;
+    width: 33%;
+}
+
+.content-slide ul li a .img img {
+    width: 100%;
+    padding-top: 4px;
+    object-fit: cover;
+    height: 55px;
+}
+
+.content-slide ul li a .info {
+    width: 62%;
+    float: right;
+    height: 100px;
+    position: relative;
+}
+
+.content-slide ul li a .info p {
+    line-height: 25px;
+    font-size: 14px;
+    color: #333;
+}
+.content-slide ul li a .info dd {
+    font-size: 14px;
+    color: #333;
+    line-height: 20px;
+}
+
+.content-slide ul li a::after {
+    display: block;
+    content: "";
+    clear: both;
+}
+
+.content-slide ul li a .info p:nth-child(2) {
+    position: absolute;
+    color: gray;
+    font-size: 14px;
+}

@@ -8,38 +8,100 @@
     <title>企业服务</title>
     <link rel="stylesheet" href=".././styles/common.css">
     <link rel="stylesheet" href=".././styles/manService.css">
+    <link rel="stylesheet" href=".././styles/swiper.min.css">
     <link rel="stylesheet" href=".././styles/index.css">
     <script src=".././script/common.js"></script>
 </head>
 
 <body>
 
-<!--<header class="mui-bar mui-bar-nav">-->
-    <!--<a href="index.html">-->
-        <!--<img src=".././images/you.png" alt="">-->
-    <!--</a>-->
-    <!--<h1 class="mui-title">企业服务</h1>-->
-<!--</header>-->
+<header class="mui-bar mui-bar-nav">
+    <a href="index.html">
+        <img src=".././images/you.png" alt="">
+    </a>
+    <h1 class="mui-title">企业服务</h1>
+</header>
+
+<div class="heMan"></div>
+    <div class="swiper-container swiper1">
+        <div class="swiper-wrapper">
+            <div class="swiper-slide selected">技术市场</div>
+            <div class="swiper-slide">设备共享</div>
+            <div class="swiper-slide">人才创业</div>
+            <div class="swiper-slide">政策服务</div>
+            <div class="swiper-slide">知识产权</div>
+            <div class="swiper-slide">综合服务</div>
+        </div>
+    </div>
+
+
+<div class="container">
+    <!-- swiper2 -->
+    <div class="swiper-container swiper2">
+        <div class="swiper-wrapper">
+            <div class="swiper-slide swiper-no-swiping">
+                上面导航栏可以滑动
+            </div>
+            <div class="swiper-slide swiper-no-swiping">
+                上面导航栏可以滑动2222
+            </div>
+            <div class="swiper-slide swiper-no-swiping">
+                内容 213213123
+            </div>
+            <div class="swiper-slide swiper-no-swiping">
+                内容 ressssssss
+            </div>
+            <div class="swiper-slide swiper-no-swiping">
+                内容 ffffffffffff
+            </div>
+            <div class="swiper-slide swiper-no-swiping">
+                内容 bbbbbbbbbbbbbbbbbvb
+            </div>
+        </div>
+    </div>
+</div>
 
 
 
 
+<script src=".././script/jquery.min.js" type="text/javascript"></script>
+<script src=".././script/swiper-3.4.0.jquery.min.js" type="text/javascript"></script>
 
-<!--<div class="container">-->
-    <!--<ul class="mui-table-view">-->
-        <!--<li class="mui-table-view-cell mui-media">-->
-            <!--<a href="enterpriseContent.html">-->
-                <!--<img class="mui-media-object mui-pull-left" src=".././images/qytu.png">-->
-                <!--<div class="mui-media-body">-->
-                    <!--<span>刘占军</span>-->
-                    <!--<p class='mui-ellipsis'>工作职务：副教授</p>-->
-                    <!--<p class='mui-ellipsis'>工作单位：西北农林科技大学资源环境学院</p>-->
-                <!--</div>-->
-            <!--</a>-->
-        <!--</li>-->
-    <!--</ul>-->
-<!--</div>-->
+<script type="text/javascript">
+    $(function() {
+        function setCurrentSlide(ele, index) {
+            $(".swiper1 .swiper-slide").removeClass("selected");
+            ele.addClass("selected");
+        }
+        var swiper1 = new Swiper('.swiper1', {
+            slidesPerView: 5.5,
+            paginationClickable: true,
+            spaceBetween: 10,
+            freeMode: true,
+            loop: false,
+            onTab: function(swiper) {
+                var n = swiper1.clickedIndex;
+            }
+        });
+        swiper1.slides.each(function(index, val) {
+            var ele = $(this);
+            ele.on("click", function() {
+                setCurrentSlide(ele, index);
+                swiper2.slideTo(index, 500, false);
+            });
+        });
 
-
+        var swiper2 = new Swiper('.swiper2', {
+            direction: 'horizontal',
+            loop: false,
+            autoHeight: true,
+            onSlideChangeEnd: function(swiper) {
+                var n = swiper.activeIndex;
+                setCurrentSlide($(".swiper1 .swiper-slide").eq(n), n);
+                swiper1.slideTo(n, 500, false);
+            }
+        });
+    });
+</script>
 </body>
 </html>

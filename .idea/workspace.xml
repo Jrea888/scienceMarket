@@ -2,22 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e336b1aa-367a-48c4-ad54-1c783849c693" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/pages/text1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/text2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/text3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/conFin.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fiance.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/ny.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/qylist.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/financeContent.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/financeList.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/financeProduct.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/scienceServiceContent.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/scienceServiceList.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/script/LevelJs1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/script/LevelJs2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/script/LevelJs3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/script/finance.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/script/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/script/jsList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/script/swiper-3.4.0.jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/cssLevel.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/cssLevel2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/cssList.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/fman.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/search.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/search.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/enterpriseContent.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/enterpriseContent.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/enterpriseList.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/enterpriseList.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/serviceContent.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/serviceContent.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/serviceList.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/serviceList.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/common.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/common.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/manService.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/manService.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles/swiper.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/swiper.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/zui.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/zui.min.css" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -31,31 +39,46 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pages/index.html">
+      <file leaf-file-name="financeList.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pages/financeList.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="355">
-              <caret line="290" column="38" lean-forward="true" selection-start-line="290" selection-start-column="38" selection-end-line="290" selection-end-column="38" />
+            <state relative-caret-position="-31">
+              <caret line="134" column="34" selection-start-line="134" selection-start-column="34" selection-end-line="134" selection-end-column="34" />
               <folding>
-                <element signature="n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/styles/index.css">
+      <file leaf-file-name="LevelJs1.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/script/LevelJs1.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6314">
-              <caret line="287" column="18" selection-start-line="287" selection-start-column="18" selection-end-line="287" selection-end-column="18" />
+            <state relative-caret-position="176">
+              <caret line="4" column="412" lean-forward="true" selection-end-line="5" selection-end-column="12849" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="text1.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pages/text1.html">
-          <provider selected="true" editor-type-id="text-editor" />
+      <file leaf-file-name="cssLevel2.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/styles/cssLevel2.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="497">
+              <caret line="63" column="1" selection-start-line="63" selection-start-column="1" selection-end-line="63" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="financeContent.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/financeContent.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="7" column="15" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -64,30 +87,13 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>添加</find>
-      <find>人才</find>
-      <find>heMan</find>
-      <find>.swiper-slide span</find>
-      <find>企业服务</find>
-      <find>.././images</find>
-      <find>张富新</find>
-      <find>陕西师范大学</find>
-      <find>.././images/fman.jpg</find>
-      <find>教授</find>
-      <find>重点项目</find>
-      <find>.bottom .text</find>
-      <find>searchInputExample</find>
-      <find>form-control</find>
-      <find>.form-control</find>
-      <find>.bottom ul li</find>
-      <find>11pt</find>
       <find>.mui-media-body span</find>
       <find>.mui-table-view-cell p</find>
       <find>.cont p</find>
@@ -99,8 +105,25 @@
       <find>.lun</find>
       <find>.inputGroup input</find>
       <find>.man</find>
-      <find>.inputGroup #images</find>
       <find>.conter ul li</find>
+      <find>.swiper2 .swiper-slide</find>
+      <find>.swiper-container-free-mode &gt; .swiper-wrapper</find>
+      <find>=</find>
+      <find>heMan</find>
+      <find>//xinxi.xy12345.cn//zwc/yemian/</find>
+      <find>.tabs .part</find>
+      <find>//xinxi.xy12345.cn//zwc/yemian/ylcontent.html?id=491</find>
+      <find>.content-slide ul li</find>
+      <find>.content-slide ul li a .img img</find>
+      <find>.tabs</find>
+      <find>.inputGroup #images</find>
+      <find>.cont</find>
+      <find>.content-slide ul li a .info p</find>
+      <find>.content-slide ul li a p</find>
+      <find>clearfix</find>
+      <find>.navigation ul li</find>
+      <find>fix</find>
+      <find>.favor-header-bar a</find>
     </findStrings>
     <replaceStrings>
       <replace>资讯中心</replace>
@@ -109,6 +132,7 @@
       <replace>.././images/man.png</replace>
       <replace>副教授</replace>
       <replace>0.12rem</replace>
+      <replace />
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -123,20 +147,31 @@
         <option value="$PROJECT_DIR$/lib/jquery/jquery.js" />
         <option value="$PROJECT_DIR$/script/swiper.min.js" />
         <option value="$PROJECT_DIR$/pages/enterprise.html" />
-        <option value="$PROJECT_DIR$/styles/swiper.min.css" />
         <option value="$PROJECT_DIR$/styles/manService.css" />
         <option value="$PROJECT_DIR$/styles/zui.min.css" />
         <option value="$PROJECT_DIR$/pages/serviceList.html" />
         <option value="$PROJECT_DIR$/pages/serviceContent.html" />
         <option value="$PROJECT_DIR$/pages/test.html" />
-        <option value="$PROJECT_DIR$/pages/enterpriseList.html" />
         <option value="$PROJECT_DIR$/pages/enterpriseContent.html" />
-        <option value="$PROJECT_DIR$/styles/index.css" />
         <option value="$PROJECT_DIR$/pages/text2.html" />
         <option value="$PROJECT_DIR$/pages/text.html" />
-        <option value="$PROJECT_DIR$/styles/common.css" />
         <option value="$PROJECT_DIR$/pages/text1.html" />
+        <option value="$PROJECT_DIR$/styles/swiper.min.css" />
+        <option value="$PROJECT_DIR$/pages/enterpriseList.html" />
+        <option value="$PROJECT_DIR$/pages/enter.html" />
+        <option value="$PROJECT_DIR$/script/zepto.js" />
+        <option value="$PROJECT_DIR$/script/lunJs.js" />
+        <option value="$PROJECT_DIR$/styles/zx.css" />
+        <option value="$PROJECT_DIR$/styles/cssList.css" />
+        <option value="$PROJECT_DIR$/pages/financeProduct.html" />
+        <option value="$PROJECT_DIR$/pages/scienceServiceContent.html" />
+        <option value="$PROJECT_DIR$/styles/common.css" />
+        <option value="$PROJECT_DIR$/styles/index.css" />
+        <option value="$PROJECT_DIR$/pages/scienceServiceList.html" />
         <option value="$PROJECT_DIR$/pages/index.html" />
+        <option value="$PROJECT_DIR$/pages/financeContent.html" />
+        <option value="$PROJECT_DIR$/styles/cssLevel2.css" />
+        <option value="$PROJECT_DIR$/pages/financeList.html" />
       </list>
     </option>
   </component>
@@ -150,10 +185,10 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="35" />
-    <option name="y" value="-20" />
-    <option name="width" value="1470" />
-    <option name="height" value="865" />
+    <option name="x" value="45" />
+    <option name="y" value="-25" />
+    <option name="width" value="1835" />
+    <option name="height" value="1080" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -161,18 +196,23 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="scienceMarket6" type="b2602c69:ProjectViewProjectNode" />
-              <item name="scienceMarket6" type="462c0819:PsiDirectoryNode" />
+              <item name="scienceMarket" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scienceMarket" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scienceMarket" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scienceMarket" type="462c0819:PsiDirectoryNode" />
+              <item name="styles" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -182,6 +222,11 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\scienceMarket\script" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -218,23 +263,32 @@
       <workItem from="1557824489508" duration="3351000" />
       <workItem from="1557883415006" duration="15406000" />
       <workItem from="1557901328701" duration="631000" />
+      <workItem from="1557901988261" duration="1876000" />
+      <workItem from="1557904374495" duration="11840000" />
+      <workItem from="1557970449169" duration="6220000" />
+      <workItem from="1557978626812" duration="3696000" />
+      <workItem from="1557997942823" duration="1820000" />
+      <workItem from="1558059533896" duration="2117000" />
+      <workItem from="1558291199923" duration="799000" />
+      <workItem from="1558315567898" duration="2007000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="60172000" />
+    <option name="totallyTimeSpent" value="90547000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="55" y="-7" width="1488" height="878" extended-state="6" />
+    <frame x="58" y="-7" width="1485" height="878" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19475138" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22560553" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5006906" side_tool="true" weight="0.34449095" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.34449095" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4993094" visible="true" weight="0.17015342" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -245,25 +299,6 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32914925" />
     </layout>
-    <layout-to-restore>
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="10" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.022315202" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32914925" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -271,15 +306,26 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/styles/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6314">
+          <caret line="287" column="18" selection-start-line="287" selection-start-column="18" selection-end-line="287" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/text1.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/pages/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="7524">
           <caret line="342" column="30" selection-start-line="342" selection-start-column="30" selection-end-line="342" selection-end-column="30" />
-          <folding>
-            <element signature="n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -297,10 +343,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-          <folding>
-            <element signature="n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -388,13 +430,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/script/common.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="10" lean-forward="true" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/script/jqurey.js" />
     <entry file="file://$PROJECT_DIR$/lib/jquery/jquery.js">
       <provider selected="true" editor-type-id="text-editor">
@@ -403,22 +438,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/script/swiper.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="2" lean-forward="true" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/images/you.png">
       <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/styles/swiper.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141">
-          <caret line="204" lean-forward="true" selection-start-line="204" selection-end-line="204" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/styles/zui.min.css">
       <provider selected="true" editor-type-id="text-editor">
@@ -434,32 +455,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/serviceContent.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="235">
-          <caret line="32" column="19" lean-forward="true" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pages/test.html" />
     <entry file="file://$PROJECT_DIR$/pages/text3.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="241" column="17" lean-forward="true" selection-start-line="241" selection-start-column="17" selection-end-line="241" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/serviceList.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="473">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/enterpriseList.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="22" lean-forward="true" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
         </state>
       </provider>
     </entry>
@@ -470,13 +470,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/styles/common.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="333">
-          <caret line="25" column="16" lean-forward="true" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pages/enterpriseContent.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
@@ -484,23 +477,164 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/styles/index.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6314">
-          <caret line="287" column="18" selection-start-line="287" selection-start-column="18" selection-end-line="287" selection-end-column="18" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/script/jquery.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/pages/text1.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/pages/enterpriseList.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="32" column="42" selection-start-line="32" selection-start-column="38" selection-end-line="32" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/styles/cssList.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="456" column="1" selection-start-line="456" selection-start-column="1" selection-end-line="456" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script/finance.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="863" column="5" lean-forward="true" selection-start-line="863" selection-start-column="5" selection-end-line="863" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script/jsList.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="539">
+          <caret line="1158" column="8" selection-start-line="1158" selection-start-column="8" selection-end-line="1158" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/serviceContent.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="499">
+          <caret line="32" column="19" lean-forward="true" selection-end-line="57" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/styles/cssList.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="104" column="17" selection-start-line="104" selection-start-column="17" selection-end-line="104" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/serviceList.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-891">
+          <caret line="14" column="6" lean-forward="true" selection-end-line="99" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/financeProduct.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script/swiper.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="28" lean-forward="true" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script/swiper-3.4.0.jquery.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1518">
+          <caret line="14" column="5275" selection-start-line="14" selection-start-column="5275" selection-end-line="14" selection-end-column="5275" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="10" lean-forward="true" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/styles/common.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/styles/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10714">
+          <caret line="487" column="14" selection-start-line="487" selection-start-column="14" selection-end-line="487" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/scienceServiceContent.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/scienceServiceList.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="682">
+          <caret line="31" column="23" selection-start-line="31" selection-start-column="23" selection-end-line="31" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pages/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="355">
-          <caret line="290" column="38" lean-forward="true" selection-start-line="290" selection-start-column="38" selection-end-line="290" selection-end-column="38" />
+        <state relative-caret-position="440">
+          <caret line="23" column="14" lean-forward="true" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/financeContent.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="15" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/styles/swiper.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/styles/cssLevel.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/styles/cssLevel2.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="497">
+          <caret line="63" column="1" selection-start-line="63" selection-start-column="1" selection-end-line="63" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script/LevelJs1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="4" column="412" lean-forward="true" selection-end-line="5" selection-end-column="12849" />
           <folding>
-            <element signature="n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/financeList.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-31">
+          <caret line="134" column="34" selection-start-line="134" selection-start-column="34" selection-end-line="134" selection-end-column="34" />
+          <folding>
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
           </folding>
         </state>
       </provider>

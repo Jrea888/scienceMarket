@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport"
+          content="width=device-width,initial-scale=1.0,maximum-scale=1.0,minimum-scale=1.0,user-scalable=no">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge"/>
+    <title>科技服务</title>
+    <link rel="stylesheet" href=".././styles/common.css">
+    <link rel="stylesheet" href=".././styles/index.css">
+    <link rel='stylesheet' href='.././styles/cssLevel.css'>
+    <script src=".././script/common.js"></script>
+</head>
+
+<body>
+
+
+<header class="favor-header-bar">
+    <div class="navigation">
+        <ul class="tabs">
+            <li class="default"><a href="" id="btn1" hidefocus="true">技术市场</a></li>
+            <li><a href="" id="btn2" hidefocus="true">设备共享</a></li>
+            <li><a href="" id="btn3" hidefocus="true">人才创业</a></li>
+            <li><a href="" id="btn4" hidefocus="true">政策服务</a></li>
+            <li><a href="" id="btn5" hidefocus="true">知识产权</a></li>
+            <li><a href="" id="btn6" hidefocus="true">综合服务</a></li>
+        </ul>
+    </div>
+</header>
+
+<div class="container">
+    <div class="swiper-container favor-list">
+        <div class="swiper-wrapper">
+            <div class="swiper-slide">
+                <a href="">
+                    <img src=".././images/qylist.png">
+                </a>
+                <div>
+                    <h2>1G流量免费送</h2>
+                    <p>我们嗨起来自己都害怕我们嗨起来自己都害怕我们嗨起来自己都害怕</p>
+                </div>
+            </div>
+
+            <div class="swiper-slide margin19">
+                <a href="">
+                    <img src=".././images/qylist.png">
+                    <div>
+                        <h2>1G流量免费送</h2>
+                        <p>我们嗨起来自己都害怕我们嗨起来自己都害怕我们嗨起来自己都害怕</p>
+                    </div>
+                </a>
+            </div>
+
+
+            <div class="swiper-slide">
+                <a href="">
+                    <img src=".././images/qylist.png">
+                    <div>
+                        <h2>1G流量免费送</h2>
+                        <p>我们嗨起来自己都害怕我们嗨起来自己都害怕我们嗨起来自己都害怕</p>
+                    </div>
+                </a>
+            </div>
+
+            <div class="swiper-slide">
+                <a href="">
+                    <img src=".././images/qylist.png">
+                    <div>
+                        <h2>1G流量免费送</h2>
+                        <p>我们嗨起来自己都害怕我们嗨起来自己都害怕我们嗨起来自己都害怕</p>
+                    </div>
+                </a>
+            </div>
+
+            <div class="swiper-slide">
+                <a href="">
+                    <img src=".././images/qylist.png">
+                    <div>
+                        <h2>1G流量免费送</h2>
+                        <p>我们嗨起来自己都害怕我们嗨起来自己都害怕我们嗨起来自己都害怕</p>
+                    </div>
+                </a>
+            </div>
+
+            <div class="swiper-slide">
+                <a href="">
+                    <img src=".././images/qylist.png">
+                    <div>
+                        <h2>1G流量免费送</h2>
+                        <p>我们嗨起来自己都害怕我们嗨起来自己都害怕我们嗨起来自己都害怕</p>
+                    </div>
+                </a>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+
+</body>
+
+<script src=".././script/LevelJs3.js"></script>
+<script src=".././script/LevelJs2.js"></script>
+<script src=".././script/LevelJs1.js"></script>
+<script type="text/javascript">
+    var mySwiper = new Swiper('.swiper-container',{
+        autoHeight: true,
+        onSlideChangeStart: function(){
+            $(".tabs .default").removeClass('default');
+            $(".tabs li").eq(mySwiper.activeIndex).addClass('default');
+        }
+    });
+    $(".tabs li").on('click',function(e){
+        e.preventDefault();
+        $(".tabs .default").removeClass('default');
+        $(this).addClass('default');
+        mySwiper.swipeTo($(this).index());
+    });
+    $(".tabs li").click(function(e){
+        e.preventDefault();
+    });
+
+</script>
+</html>
